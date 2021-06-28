@@ -1,4 +1,0 @@
-pyensys==0.1
-pandas==1.1.3
-numpy==1.19.2
-watermark==2.2.0
